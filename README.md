@@ -1,2 +1,2 @@
-# chat-online-
-criação de um chat utilizando python e django 
+# chat-online
+criação de chat utilizando python e django 
